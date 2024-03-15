@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Mark and I'm a computer science student from Singapore. Here's some info about me!
 <!--
 **franktakaema888/franktakaema888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/franktakaema888)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mark-cheong-0110b3147/)
+
+- 🏢 Software Engineer (Full Stack)
+- 🧰 I build with: `Javascript` `Next.js`, `React.js`, `MUI`, `Tailwind` ...
+- ⚡ I enjoy discovering new places to eat at, running and lifting weights :)
